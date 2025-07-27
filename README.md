@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter Mwangi
-- 👀 I’m interested in latest technology, DevOps & AI
+- 👀 I’m a tech enthusiast, highly interested in latest technology, DevOps, ML & AI
 - 🌱 I’m currently working as a full-stack developer in an insurance company
-- 💞️ I’m looking to collaborate on innovative solutions that solve prevailing people challenges & advancements in any field 
+- 💞️ I’m looking to collaborate on innovative solutions that address prevailing challenges & technological advancements in any field
 - 📫 Reach me via njoropter67@gmail.com
 
 <!---
